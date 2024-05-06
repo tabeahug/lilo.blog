@@ -10,3 +10,13 @@ description = "Leben am Limit"
 Regelmässig zu spät: Das ist Jaël Luna Jenni.
 
 ![](jael.jpg)
+
+<!--StartFragment-->
+
+{{<box>}}
+
+Das Objekt der Beobachtung ist nicht mehr lange 17 Jahre alt und muss noch lernen, sich im Leben zurechtzufinden.
+
+{{</box>}}
+
+<!--EndFragment-->
