@@ -1,7 +1,7 @@
 +++
 title = "Wenn Grenzen überschritten werden: Flucht in die Freiheit"
 date = "2024-10-02"
-draft = true
+draft = false
 pinned = false
 tags = ["DDR", "Familiengeschichte", "Flucht", "Reportage", "Freiheit", "Diktatur", "Geschichte"]
 +++
