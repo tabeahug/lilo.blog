@@ -4,6 +4,7 @@ date = "2024-10-02"
 draft = false
 pinned = false
 tags = ["DDR", "Familiengeschichte", "Flucht", "Reportage", "Freiheit", "Diktatur", "Geschichte", "Deutsch", "Deutschland"]
+image = "evtl.-titelbild2.jpg"
 +++
 {{<lead>}}
 Es ist ein warmer Spätsommerabend 1957, ein wohliges Gefühl breitet sich aus. Die letzte Ernte ist eingefahren, die Arbeit getan. Doch dunkle Wolken der Bedrohung ziehen auf, Familie xy muss eine gravierende Entscheidung treffen. Sie wagt die Flucht, verlässt die DDR. Diese Reportage begibt sich auf die Spuren der Familie xy und anderen Schicksalen und beleuchtet Beweggründe, Ängste und Stärkung der Menschen in dieser Zeit. Und was geht uns dieses Thema in der heutigen Zeit überhaupt an?
