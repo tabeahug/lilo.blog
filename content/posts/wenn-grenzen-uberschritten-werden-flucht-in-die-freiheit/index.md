@@ -154,7 +154,9 @@ Die Spuren der DDR sind in Berlin auch heute noch unverkennbar. Aber nicht nur i
 #### Fluchten weltweit
 
 Ende 2023 sind 17.3 Millionen Menschen auf der Flucht, in Deutschland leben zu diesem Zeitpunkt 2.6 Millionen Flüchtlinge und Asylsuchende. 1.5% der gesamten Weltbevölkerung sind Vertriebene, 47 Millionen aller Geflüchteten sind Kinder.
+
 {{<box>}}
+
 
 ![Wachstum der Flüchtlingszahlen bis 2023 ](fluchtlingkomprimiert.png)
 
