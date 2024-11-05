@@ -149,17 +149,15 @@ Damit ist der Bund sachlicher als die anderen Zeitungen, das Bieler Tagbl att da
 
 Die Spuren der DDR sind in Berlin auch heute noch unverkennbar. Aber nicht nur in der Zeit zwischen 1949 und 1989 entschliessen sich Menschen, zu flüchten. Dieses Thema zieht sich bereits durch die gesamte Menschheitsgeschichte hindurch und ist heute, im Jahr 2024, aktueller denn je. Noch nie war die Zahl der Geflüchteten wegen Krieg, Konflikten und Verfolgung so hoch wie heute.  Jeder Mensch hat seine eigene Grenze, bei der er beschliesst, zu flüchten und alles zu verlassen. Manche müssen mehr zurücklassen als andere. Das Erarbeitete, geknüpfte Freundschaften, den Wohnort, alles muss verlassen werden. 27,2 Millionen Menschen sind 2023 akut zur Flucht gezwungen, die Hauptgründe dafür sind laut der Flüchtlingshilfe der UNO Krieg, Gewalt, der Klimawandel und Hunger. 
 
-{{<box>}}
+
 
 #### Fluchten weltweit
 
 Ende 2023 sind 17.3 Millionen Menschen auf der Flucht, in Deutschland leben zu diesem Zeitpunkt 2.6 Millionen Flüchtlinge und Asylsuchende. 1.5% der gesamten Weltbevölkerung sind Vertriebene, 47 Millionen aller Geflüchteten sind Kinder.
 
-{{<box>}}
-
-DIE BOX SOLL VERSCHWINDEN AUSRUFEZEICHEN
 
 
+Tschüss Box
 
 ![Wachstum der Flüchtlingszahlen bis 2023 ](fluchtlingkomprimiert.png)
 
