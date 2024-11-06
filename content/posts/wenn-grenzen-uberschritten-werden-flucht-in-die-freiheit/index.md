@@ -3,7 +3,7 @@ title = "Wenn Grenzen überschritten werden: Flucht in die Freiheit"
 date = "2024-10-02"
 draft = false
 pinned = false
-tags = ["DDR", "Familiengeschichte", "Flucht", "Reportage", "Freiheit", "Diktatur", "Geschichte", "Deutsch", "Deutschland"]
+tags = ["DDR", "Familiengeschichte", "Flucht", "Reportage", "Freiheit", "Diktatur", "Geschichte", "Deutsch", "Deutschland", "Maturaarbeit"]
 image = "evtl.-titelbild2.jpg"
 description = "Vorab: Gendern, veränderte Namen (Möller, Harald), Unterscheidung Namen"
 +++
