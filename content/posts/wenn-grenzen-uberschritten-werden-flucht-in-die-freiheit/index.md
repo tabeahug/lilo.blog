@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["DDR", "Familiengeschichte", "Flucht", "Reportage", "Freiheit", "Diktatur", "Geschichte", "Deutsch", "Deutschland", "Maturaarbeit"]
 image = "evtl.-titelbild2.jpg"
-description = "Vorab: Gendern, veränderte Namen (Möller, Harald, Manfred, Joachim, Anne, Eliza), Unterscheidung Namen"
+description = "Vorab: Gendern, veränderte Namen (Möller-Lorenz, Harald-Wilfried, Manfred-Herbert, Joachim-Herbert, Anne-Alice, Eliza-Alice), Unterscheidung Namen"
 +++
 {{<lead>}}
 Es ist ein warmer Spätsommerabend 1957, ein wohliges Gefühl breitet sich aus. Die letzte Ernte ist eingefahren, die Arbeit getan. Doch dunkle Wolken der Bedrohung ziehen auf, Familie Möller muss eine gravierende Entscheidung treffen. Sie wagt die Flucht, verlässt die DDR. Diese Reportage begibt sich auf die Spuren der Familie Möller und anderen Schicksalen und beleuchtet Beweggründe, Ängste und Stärkung der Menschen in dieser Zeit. Und was geht uns dieses Thema in der heutigen Zeit überhaupt an?
